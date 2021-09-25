@@ -1,6 +1,7 @@
 # RoombaBot
-A simple LEGO EV3 program for a "Roomba"-type robot. Programmed with micropython and pybricks.
+A simple LEGO EV3 program for a "Roomba"-based battle robot. Programmed with micropython and pybricks.
 
 Purpose:
-Robot drives around until it hits a wall, then maneuvers out of the way.
-Used as a base for the BattleBot robot project.
+Robot drives around looking for an enemy robot and attacking, while avoiding getting too close or running off the platform.
+
+Used as a base for the SumoBot robot project.
